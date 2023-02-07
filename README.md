@@ -12,6 +12,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-Clone the repository to your local machine:
+Clone the repository to your local machine:<br>
 
-git clone https://github.com/syahidhusein/Battleship.git
+'git clone https://github.com/syahidhusein/Battleship.git'
