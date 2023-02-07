@@ -17,3 +17,7 @@ Clone the repository to your local machine
 Enter following code in command line:
 
 'git clone https://github.com/syahidhusein/Battleship.git'
+
+Run the game:
+
+'python run main.py'
